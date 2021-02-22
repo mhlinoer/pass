@@ -1,0 +1,2 @@
+# pass
+for java practice
